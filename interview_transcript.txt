@@ -1,0 +1,21 @@
+1. What programming languages are you most familiar with?
+“I am most familiar with Python, Java, and C++. I have used Python for data analysis, Java for building backend systems, and C++ for performance-critical applications.”
+2. Describe the troubleshooting process you’d follow for a crashing program.
+“First, I would check the error logs to identify the point of failure. Then, I’d isolate the issue by running tests and using debugging tools. Finally, I would fix the code and test it thoroughly before deployment.”
+3. How can you debug a program while it’s being used?
+“I would use debugging tools that allow for real-time monitoring and set breakpoints in a development environment that mirrors the production system. This way, I can debug without affecting the users."
+4. What is your field of expertise and what would you like to learn more about?
+“My expertise is in cloud computing, but I’m interested in learning more about machine learning and its applications.”
+5. Have you implemented significant improvements to an IT infrastructure? What were they, and how did you implement them?
+“Yes, I led a team that migrated our services to a cloud-based infrastructure, which improved scalability and reduced costs. We planned meticulously and executed it in phases to minimize downtime.”
+6. What’s the most effective way to gather user and system requirements?
+“I usually start with stakeholder interviews to understand their needs and expectations. Then, I consult with the technical team to assess system capabilities. Finally, I document everything in a formal requirements specification.”
+7. Describe a time you had to explain technical details to a non-technical audience. How did you modify your presentation?
+“I once had to explain the benefits of migrating to a cloud-based system to our board of directors. I used simple language and analogies to make it relatable and avoided technical jargon.”
+8. Where do you place most of your focus when reviewing somebody else’s code?
+“I focus on code readability, efficiency, and whether it adheres to best practices. I also look for any security vulnerabilities.”
+9. What did you find most challenging about this assignment? What resources did you use to complete the assignment?
+“The most challenging part was optimizing the algorithm for performance. I consulted online forums and used profiling tools to identify bottlenecks.”
+10. What did you learn from [X] project?
+“From that project, I learned the importance of thorough requirement gathering. We faced challenges that could have been avoided with better initial planning.”
+
